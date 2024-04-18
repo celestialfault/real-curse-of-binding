@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "me.celestialfault.realcurseofbinding.mixins",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+	],
+	"client": [
+		"GenderLayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

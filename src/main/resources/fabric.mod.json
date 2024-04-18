@@ -1,0 +1,17 @@
+{
+	"schemaVersion": 1,
+	"id": "real-curse-of-binding",
+	"version": "${version}",
+	"name": "Real Curse of Binding",
+	"description": "How Curse of Binding was clearly intended to work",
+	"authors": ["celeste"],
+	"license": "LGPL-3.0-only",
+	"environment": "client",
+	"mixins": ["real-curse-of-binding.mixins.json"],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=1.20.2",
+		"java": ">=17",
+		"wildfire_gender": ">=1.20.2-3.2"
+	}
+}
